@@ -1,16 +1,11 @@
 ﻿<Properties StartupConfiguration="{184E7512-D54D-44BE-8421-A46C6230FF13}|Default">
-  <MonoDevelop.Ide.ItemProperties.GauteAppen.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.GauteAppen.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MonoDevelop.Ide.ItemProperties.GauteAppen.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GauteAppen/MainPage.xaml">
-    <Files>
-      <File FileName="GauteAppen/MainPage.xaml" Line="7" Column="15" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.GauteAppen FirstBuild="True" />
 </Properties>

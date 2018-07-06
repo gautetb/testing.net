@@ -1,0 +1,9 @@
+/Users/gautetessandbaalsrud/Documents/GitHub/testing.net/testprosjekt/GauteAppen/GauteAppen/bin/Debug/netstandard2.0/GauteAppen.deps.json
+/Users/gautetessandbaalsrud/Documents/GitHub/testing.NET/testprosjekt/GauteAppen/GauteAppen/bin/Debug/netstandard2.0/GauteAppen.dll
+/Users/gautetessandbaalsrud/Documents/GitHub/testing.NET/testprosjekt/GauteAppen/GauteAppen/bin/Debug/netstandard2.0/GauteAppen.pdb
+/Users/gautetessandbaalsrud/Documents/GitHub/testing.NET/testprosjekt/GauteAppen/GauteAppen/obj/Debug/netstandard2.0/GauteAppen.csprojResolveAssemblyReference.cache
+/Users/gautetessandbaalsrud/Documents/GitHub/testing.NET/testprosjekt/GauteAppen/GauteAppen/obj/Debug/netstandard2.0/GauteAppen.csproj.CoreCompileInputs.cache
+/Users/gautetessandbaalsrud/Documents/GitHub/testing.NET/testprosjekt/GauteAppen/GauteAppen/obj/Debug/netstandard2.0/GauteAppen.AssemblyInfoInputs.cache
+/Users/gautetessandbaalsrud/Documents/GitHub/testing.NET/testprosjekt/GauteAppen/GauteAppen/obj/Debug/netstandard2.0/GauteAppen.AssemblyInfo.cs
+/Users/gautetessandbaalsrud/Documents/GitHub/testing.NET/testprosjekt/GauteAppen/GauteAppen/obj/Debug/netstandard2.0/GauteAppen.dll
+/Users/gautetessandbaalsrud/Documents/GitHub/testing.NET/testprosjekt/GauteAppen/GauteAppen/obj/Debug/netstandard2.0/GauteAppen.pdb

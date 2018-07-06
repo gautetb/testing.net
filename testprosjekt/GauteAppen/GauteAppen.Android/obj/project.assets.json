@@ -763,11 +763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gautetessandbaalsrud/Documents/GitHub/C#/testprosjekt/GauteAppen/GauteAppen.Android/GauteAppen.Android.csproj",
+      "projectUniqueName": "/Users/gautetessandbaalsrud/Documents/GitHub/testing.net/testprosjekt/GauteAppen/GauteAppen.Android/GauteAppen.Android.csproj",
       "projectName": "GauteAppen.Android",
-      "projectPath": "/Users/gautetessandbaalsrud/Documents/GitHub/C#/testprosjekt/GauteAppen/GauteAppen.Android/GauteAppen.Android.csproj",
+      "projectPath": "/Users/gautetessandbaalsrud/Documents/GitHub/testing.net/testprosjekt/GauteAppen/GauteAppen.Android/GauteAppen.Android.csproj",
       "packagesPath": "/Users/gautetessandbaalsrud/.nuget/packages/",
-      "outputPath": "/Users/gautetessandbaalsrud/Documents/GitHub/C#/testprosjekt/GauteAppen/GauteAppen.Android/obj",
+      "outputPath": "/Users/gautetessandbaalsrud/Documents/GitHub/testing.net/testprosjekt/GauteAppen/GauteAppen.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gautetessandbaalsrud/.config/NuGet/NuGet.Config"
@@ -781,8 +781,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/gautetessandbaalsrud/Documents/GitHub/C#/testprosjekt/GauteAppen/GauteAppen/GauteAppen.csproj": {
-              "projectPath": "/Users/gautetessandbaalsrud/Documents/GitHub/C#/testprosjekt/GauteAppen/GauteAppen/GauteAppen.csproj"
+            "/Users/gautetessandbaalsrud/Documents/GitHub/testing.net/testprosjekt/GauteAppen/GauteAppen/GauteAppen.csproj": {
+              "projectPath": "/Users/gautetessandbaalsrud/Documents/GitHub/testing.net/testprosjekt/GauteAppen/GauteAppen/GauteAppen.csproj"
             }
           }
         }

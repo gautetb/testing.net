@@ -720,11 +720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gautetessandbaalsrud/Documents/GitHub/C#/testprosjekt/GauteAppen/GauteAppen.iOS/GauteAppen.iOS.csproj",
+      "projectUniqueName": "/Users/gautetessandbaalsrud/Documents/GitHub/testing.net/testprosjekt/GauteAppen/GauteAppen.iOS/GauteAppen.iOS.csproj",
       "projectName": "GauteAppen.iOS",
-      "projectPath": "/Users/gautetessandbaalsrud/Documents/GitHub/C#/testprosjekt/GauteAppen/GauteAppen.iOS/GauteAppen.iOS.csproj",
+      "projectPath": "/Users/gautetessandbaalsrud/Documents/GitHub/testing.net/testprosjekt/GauteAppen/GauteAppen.iOS/GauteAppen.iOS.csproj",
       "packagesPath": "/Users/gautetessandbaalsrud/.nuget/packages/",
-      "outputPath": "/Users/gautetessandbaalsrud/Documents/GitHub/C#/testprosjekt/GauteAppen/GauteAppen.iOS/obj",
+      "outputPath": "/Users/gautetessandbaalsrud/Documents/GitHub/testing.net/testprosjekt/GauteAppen/GauteAppen.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gautetessandbaalsrud/.config/NuGet/NuGet.Config"
@@ -738,8 +738,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/gautetessandbaalsrud/Documents/GitHub/C#/testprosjekt/GauteAppen/GauteAppen/GauteAppen.csproj": {
-              "projectPath": "/Users/gautetessandbaalsrud/Documents/GitHub/C#/testprosjekt/GauteAppen/GauteAppen/GauteAppen.csproj"
+            "/Users/gautetessandbaalsrud/Documents/GitHub/testing.net/testprosjekt/GauteAppen/GauteAppen/GauteAppen.csproj": {
+              "projectPath": "/Users/gautetessandbaalsrud/Documents/GitHub/testing.net/testprosjekt/GauteAppen/GauteAppen/GauteAppen.csproj"
             }
           }
         }
